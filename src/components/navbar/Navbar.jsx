@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { AiOutlineShoppingCart } from "react-icons/ai";
+import { AiOutlinQuickCartpingCart } from "react-icons/ai";
 import { Link, NavLink, useNavigate } from "react-router-dom";
 import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
@@ -92,7 +92,7 @@ const Navbar = () => {
             <div className="dropdown dropdown-end ">
               <label tabIndex={0} className="btn btn-ghost btn-circle">
                 <div className="indicator">
-                  <AiOutlineShoppingCart size={30} color="white" />
+                  <AiOutlinQuickCartpingCart size={30} color="white" />
                   <span className="badge badge-primary indicator-item">{totalQuantity}</span>
                 </div>
               </label>
