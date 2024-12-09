@@ -1,3 +1,4 @@
+
 import hero from "../../assets/hero3.png";
 import { Link } from "react-router-dom";
 import { TbArrowNarrowRight } from "react-icons/tb";
@@ -56,9 +57,10 @@ const Hero = () => {
                         </p>
 
                         <p className="mt-3 text-gray-600 dark:text-gray-400">
-                           Lorem ipsum dolor sit amet, consectetur adipisicing
-                           elit. Porro beatae error laborum ab amet sunt
-                           recusandae? Reiciendis natus perspiciatis optio.
+                        QuickCart: Your trusted online destination for quality products and fast deliveries.
+                        Shop with ease, enjoy unbeatable prices, and experience hassle-free service. From essentials
+                        to indulgences, we make shopping quick, reliable, and convenient. Discover smarter,
+                        better online shopping with QuickCart—where your satisfaction is always our priority.
                         </p>
 
                         <Link to="/all">
