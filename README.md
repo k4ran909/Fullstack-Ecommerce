@@ -1,8 +1,8 @@
 # Fullstack-Ecommerce
 
-## :moneybag: Eshop.com  :moneybag:
+## :moneybag: QuickCart.com  :moneybag:
 
-eShop.com is an e-Commerce website that enables users to shop through variety of products(electronic / household / fashion) , add a product to their cart, and checkout. A user can either register their own username and password or Sign in With Google, or they can simply use the "Guest Login" button to navigate the website without registering.
+QuickCart.com is an e-Commerce website that enables users to shop through variety of products(electronic / household / fashion) , add a product to their cart, and checkout. A user can either register their own username and password or Sign in With Google, or they can simply use the "Guest Login" button to navigate the website without registering.
 
 ![download](https://user-images.githubusercontent.com/81632171/199007839-77a2f0cd-9b25-4dec-a141-30155fbc4a20.png)
 
@@ -17,7 +17,7 @@ eShop.com is an e-Commerce website that enables users to shop through variety of
 
 ## LIVE-Website-Link
 
-[EShop.com](https://eshop-firebase.vercel.app/)
+[QuickCart.com](https://QuickCart-firebase.vercel.app/)
 
 ## Getting-Started
 
@@ -40,7 +40,7 @@ To get started follow this guide:
 In your terminal clone repo to your local machine using git clone:
 
 ```
-git clone https://github.com/kartikpavan/Fullstack-Ecommerce.git
+git clone https://github.com/k4ran909/Fullstack-Ecommerce.git
 ```
 
 Move to your newly cloned repo by entering the following in your terminal:
